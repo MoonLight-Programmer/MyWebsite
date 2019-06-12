@@ -17,7 +17,6 @@ html, body{
     list-style-position: inside;
 }
 #table ul{
-    
     list-style: none;
 }
 #table ul li{
@@ -26,6 +25,7 @@ html, body{
 #table ul a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 300;
+    color: darkgray;
     src: local("Segoe UI Semilight"), local("Segoe UI");
     font-size: 40px;
     margin: 0px 75px 0px 75px;
